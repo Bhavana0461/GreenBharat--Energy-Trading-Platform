@@ -11,8 +11,6 @@
 - [🛠️ Technology Stack](#-technology-stack)
 - [📦 Installation](#-installation)
 - [🚀 Usage](#-usage)
-- [🌐 Site Preview](#-site-preview)
-- [📽️ PPT for Hackathon](#-ppt-for-hackathon)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [📬 Contact](#-contact)
@@ -106,18 +104,8 @@ python app.py
 
 ---
 
-## 🌐 Site Preview
 
-![GreenCart gif](https://github.com/user-attachments/assets/917d066a-71f0-4fee-951a-56aa628a8160)
 
----
-
-## 📽️ PPT for Hackathon
-
-📁 [Download Presentation - Tech4Tomorrow_hackathon.pptx](https://github.com/user-attachments/files/17082889/Tech4Tommorow_hackathon.pptx)  
-💫 _Includes morph transitions for smooth visuals._
-
----
 
 ## 🤝 Contributing
 
@@ -143,6 +131,6 @@ Feel free to use and modify with attribution.
 
 Got questions or ideas? Reach out to us!
 
-- 👨‍💻 [Amish Mathur (amishmathur1)](https://github.com/amishmathur1)
-- 👨‍💻 [Ansh (PikachuGX)](https://github.com/PikachuGX)
-- 👨‍💻 [Sarthak Dharmik (XaXtric7)](https://github.com/XaXtric7)
+- 👨‍💻 [Anusha A S](http://github.com/Anusha249)
+- 👨‍💻 [Bhavana N ](https://github.com/Bhavana0461)
+- 👨‍💻 [Bhavya P](https://github.com/b-havya2004)
