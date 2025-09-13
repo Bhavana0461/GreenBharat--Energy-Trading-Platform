@@ -133,4 +133,4 @@ Got questions or ideas? Reach out to us!
 
 - 👨‍💻 [Anusha A S](http://github.com/Anusha249)
 - 👨‍💻 [Bhavana N ](https://github.com/Bhavana0461)
-- 👨‍💻 [Bhavya P](https://github.com/b-havya2004)
+- 👨‍💻 [Bhavya P](https://github.com/bhavya20p4-sys)
